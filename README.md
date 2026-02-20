@@ -1,7 +1,8 @@
 ## 🎓 Ciência da Computação  
-Focado em desenvolvimento Front-End | React | Typescript | Javascript.
 
-💻 Estudando JavaScript, TypeScript e React  
+💻 Focado em desenvolvimento Front-End  
+⚛️ React • TypeScript • JavaScript  
 
-📚 Este perfil reúne projetos desenvolvidos durante meus estudos e cursos,
-registrando minha evolução prática na área.
+📚 Atualmente aprofundando estudos em JavaScript, TypeScript e React, com foco na construção de interfaces modernas, funcionais e bem estruturadas.
+
+🚀 Este perfil reúne projetos desenvolvidos ao longo dos meus estudos acadêmicos e cursos, documentando minha evolução prática, aprendizado contínuo e aplicação real das tecnologias.
