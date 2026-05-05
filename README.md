@@ -1,7 +1,7 @@
-# 🎓 Ciência da Computação  
+# 🎓 Ciências da Computação  
 
 ## 💻 Desenvolvimento Front-End  
-### ⚛️ React • TypeScript • JavaScript • HTML • CSS
+### ⚛️ TypeScript • JavaScript • HTML • CSS
 
 📚 Atualmente aprofundando meus estudos nessas tecnologias, com foco na criação de projetos funcionais, colocando em prática todos os meus estudos.
 
