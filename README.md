@@ -7,3 +7,4 @@
 
 🚀 Este perfil reúne projetos desenvolvidos ao longo dos meus estudos acadêmicos e cursos, registrando minha evolução prática e aprendizado contínuo na área. 
 
+    
