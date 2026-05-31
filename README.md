@@ -35,8 +35,8 @@ Abaixo estão as linguagens e tecnologias que compõem minha base de desenvolvim
 Visão geral da minha constância de commits e linguagens mais utilizadas nos meus repositórios:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula" width="300" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?FernandoMendees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?FernandoMendees&layout=compact&theme=dracula" width="300" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
