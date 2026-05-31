@@ -35,8 +35,8 @@ Abaixo estão as linguagens e tecnologias que compõem minha base de desenvolvim
 Visão geral da minha constância de commits e linguagens mais utilizadas nos meus repositórios:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?FernandoMendees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?FernandoMendees&layout=compact&theme=dracula" width="300" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoMendees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMendees&layout=compact&theme=dracula" width="300" alt="Linguagens mais utilizadas" />
 </div>
 
 ---
@@ -46,10 +46,10 @@ Visão geral da minha constância de commits e linguagens mais utilizadas nos me
 Estou sempre aberto a novas conexões profissionais, discussões técnicas e oportunidades na área de desenvolvimento. Sinta-se à vontade para entrar em contato:
 
 <div align="left">
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/fernando-mendes-525b9536a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+  <a href="mailto:2812fernandofilho@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
