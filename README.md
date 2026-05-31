@@ -2,7 +2,9 @@
 
 ### Desenvolvedor Front-end e Graduando em Ciência da Computação
 
-Sou estudante de Ciência da Computação com foco no desenvolvimento de aplicações web no ecossistema Front-end. Este perfil atua como um portfólio vivo do meu desenvolvimento técnico, consolidando projetos acadêmicos e implementações práticas das arquiteturas e tecnologias que estudo continuamente.
+Sou estudante de Ciência da Computação, com foco no desenvolvimento de aplicações web no ecossistema front-end. Este perfil funciona como um portfólio vivo da minha evolução técnica, reunindo projetos acadêmicos e implementações práticas das arquiteturas e tecnologias que venho estudando continuamente.
+
+Meu objetivo é compartilhar minha trajetória no desenvolvimento web, evidenciando não apenas os resultados, mas também meu processo e evolução no trabalho, raciocínio e abordagem na resolução de problemas.
 
 ---
 
