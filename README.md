@@ -1,10 +1,57 @@
-# 🎓 Ciências da Computação  
+# Olá, sou o Fernando Mendes.
 
-## 💻 Desenvolvimento Front-End  
-### ⚛️ TypeScript • JavaScript • HTML • CSS
+### Desenvolvedor Front-end e Graduando em Ciência da Computação
 
-📚 Atualmente aprofundando meus estudos nessas tecnologias, com foco na criação de projetos funcionais, colocando em prática todos os meus estudos.
+Sou estudante de Ciência da Computação com foco no desenvolvimento de aplicações web no ecossistema Front-end. Meu principal objetivo é a construção de interfaces interativas, priorizando a semântica do código, a acessibilidade e a experiência do usuário. 
 
-🚀 Este perfil reúne projetos desenvolvidos ao longo dos meus estudos acadêmicos e cursos, registrando minha evolução prática e aprendizado contínuo na área. 
+Este perfil atua como um portfólio vivo do meu desenvolvimento técnico, consolidando projetos acadêmicos e implementações práticas das arquiteturas e tecnologias que estudo continuamente.
 
-    
+---
+
+## Perfil Técnico e Objetivos
+
+- Graduando em **Ciência da Computação**.
+- Foco em arquitetura, desenvolvimento de interfaces web responsivas e manipulação do DOM.
+- Aprofundando conhecimentos no núcleo do desenvolvimento Front-end: **JavaScript moderno (ES6+), HTML5 semântico e CSS3**.
+- Em processo de expansão dos estudos para frameworks e bibliotecas de componentização estruturada.
+- Buscando oportunidades como **Estagiário** ou **Desenvolvedor Júnior** para aplicar meus conhecimentos práticos e agregar valor a times de engenharia de software.
+
+---
+
+## Stack Tecnológico e Ferramentas
+
+Abaixo estão as linguagens e tecnologias que compõem minha base de desenvolvimento atual:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+</div>
+
+---
+
+## Métricas do GitHub
+
+Visão geral da minha constância de commits e linguagens mais utilizadas nos meus repositórios:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula" width="300" alt="Linguagens mais utilizadas" />
+</div>
+
+---
+
+## Contato e Redes
+
+Estou sempre aberto a novas conexões profissionais, discussões técnicas e oportunidades na área de desenvolvimento. Sinta-se à vontade para entrar em contato:
+
+<div align="left">
+  <a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
