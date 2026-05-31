@@ -30,17 +30,6 @@ Abaixo estão as linguagens e tecnologias que compõem minha base de desenvolvim
 
 ---
 
-## Métricas do GitHub
-
-Visão geral da minha constância de commits e linguagens mais utilizadas nos meus repositórios:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoMendees&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="400" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoMendees&layout=compact&theme=dracula" width="300" alt="Linguagens mais utilizadas" />
-</div>
-
----
-
 ## Contato e Redes
 
 Estou sempre aberto a novas conexões profissionais, discussões técnicas e oportunidades na área de desenvolvimento. Sinta-se à vontade para entrar em contato:
