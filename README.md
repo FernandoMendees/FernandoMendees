@@ -9,7 +9,7 @@ Sou estudante de Ciência da Computação com foco no desenvolvimento de aplica�
 ## Perfil Técnico e Objetivos
 
 - Graduando em **Ciência da Computação**.
-- Foco em arquitetura, desenvolvimento de interfaces web responsivas e manipulação do DOM.
+- Foco em arquitetura, desenvolvimento de interfaces web, consumo de API's Rest e manipulação do DOM.
 - Aprofundando conhecimentos no núcleo do desenvolvimento Front-end: **JavaScript moderno (ES6+), HTML5 semântico e CSS3**.
 - Em processo de expansão dos estudos para frameworks e bibliotecas de componentização estruturada.
 - Buscando oportunidades como **Estagiário** ou **Desenvolvedor Júnior** para aplicar meus conhecimentos práticos e agregar valor a times de engenharia de software.
