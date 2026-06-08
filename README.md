@@ -1,8 +1,8 @@
 # Olá, sou o Fernando Mendes.
 
-### Desenvolvedor Front-end e Graduando em Ciências da Computação
+### Desenvolvedor Front-end e Graduando em Ciências da Computação.
 
-Sou estudante de Ciência da Computação, com foco no desenvolvimento de aplicações web no ecossistema front-end. Este perfil funciona como um portfólio vivo da minha evolução técnica, reunindo projetos acadêmicos e implementações práticas das arquiteturas e tecnologias que venho estudando continuamente.
+Sou estudante de Ciências da Computação, com foco no desenvolvimento de aplicações web no ecossistema front-end. Este perfil funciona como um portfólio vivo da minha evolução técnica, reunindo projetos acadêmicos e implementações práticas das arquiteturas e tecnologias que venho estudando continuamente.
 
 Meu objetivo é compartilhar minha trajetória no desenvolvimento web, evidenciando não apenas os resultados, mas também meu processo e evolução no trabalho, raciocínio e abordagem na resolução de problemas.
 
