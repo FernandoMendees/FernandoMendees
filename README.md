@@ -13,7 +13,7 @@ Meu objetivo é compartilhar minha trajetória no desenvolvimento web, evidencia
 - Graduando em **Ciência da Computação**.
 - Foco em arquitetura, desenvolvimento de interfaces web, consumo de API's Rest e manipulação do DOM.
 - Aprofundando conhecimentos no núcleo do desenvolvimento Front-end: **JavaScript moderno (ES6+), HTML5 semântico e CSS3**.
-- Em processo de expansão dos estudos para frameworks e bibliotecas de componentização estruturada.
+- Em processo de expansão dos estudos para frameworks e bibliotecas de componentização estruturada (React e Typescript).
 - Buscando oportunidades como **Estagiário** ou **Desenvolvedor Júnior** para aplicar meus conhecimentos práticos e agregar valor a times de engenharia de software.
 
 ---
