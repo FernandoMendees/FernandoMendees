@@ -30,7 +30,7 @@ Abaixo estão as linguagens e tecnologias que compõem minha base de desenvolvim
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 </div>
 
---- 
+---   
 
 ## Contato e Redes
 
