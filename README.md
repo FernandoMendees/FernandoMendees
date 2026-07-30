@@ -4,8 +4,6 @@
 
 Sou estudante de Ciência da Computação focado no desenvolvimento de aplicações web e na criação de automações. Este perfil funciona como um repositório técnico e um portfólio vivo da minha evolução, reunindo projetos acadêmicos e implementações práticas das arquiteturas e tecnologias que estudo continuamente.
 
-Meu objetivo é documentar processos e compartilhar código, evidenciando as arquiteturas utilizadas, o raciocínio lógico e a minha abordagem técnica na resolução de problemas, no desenvolvimento de interfaces e na construção de robôs.
-
 ---
 
 ## Perfil Técnico
